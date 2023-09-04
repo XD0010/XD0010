@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XD0010
 - 👀 I’m interested in programming, artificial intelligence, deep learning, machine learning, data science
-- 🌱 I’m currently learning html,CSS,Data Science
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning HTML, CSS, and Machine Learning.
+- 💞️ I’m looking to collaborate on programming and research based projects.
 - 📫 How to reach me: here
 
 <!---
